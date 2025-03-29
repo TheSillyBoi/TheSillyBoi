@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSillyBoi
 - 👀 I’m interested in Game development, and software engineering in general
-- 🌱 I’m currently learning Rust, python, JS, and React
+- 🌱 I’m currently learning Rust, python, JS, and React, and whatever else but very off and on with anything other than Python and Rust
 - 📭 You can reach me at adrian@tennies.us
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Arch BTW
