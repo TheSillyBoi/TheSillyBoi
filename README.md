@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian Tennies(@TheSillyBoi)
 - 👀 I’m interested in Game development, and software engineering in general
-- 🌱 I’m currently learning Rust, python, HTML/CSS, JS, and Bash but I'm mostly working on Python and Rust
+- 🌱 I’m currently learning Rust, Python, Java, HTML/CSS, JS/TS, and Bash but I'm mostly working on Making Minecraft Mods, Desktop app, and Web apps
 - 📭 You can reach me at adrian@tennies.us
 - 😄 Pronouns: He/Him
 
